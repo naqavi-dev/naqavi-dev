@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Roohollah 👋
 
-<!--
-**naqavi-dev/naqavi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior WordPress Developer and Web Designer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning WordPress Development
+- 💻 Interested in Web Design and Security Research
+- 🚀 Building websites and improving my skills every day
+- 📚 Passionate about technology and continuous learning
+
+## Skills
+
+- WordPress
+- Elementor
+- HTML
+- CSS
+- Basic JavaScript
+- Web Security Fundamentals
+
+## Current Goals
+
+- Build professional WordPress websites
+- Learn advanced web development
+- Improve web security knowledge
+
+## Contact
+
+Feel free to connect and collaborate.
